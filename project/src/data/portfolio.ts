@@ -6,8 +6,8 @@ export const portfolioData = {
     email: "ashanmirofficial@gmail.com",
     phone: "+92-319-0799711",
     location: "Islamabad, Pakistan",
-    avatar: "src/assets/profile.jpeg",
-    resume: "src/assets/resume.pdf"
+    avatar: "/profile.jpeg",
+    resume: "/resume.pdf"
   },
 
   about: {
